@@ -1,0 +1,15 @@
+# Laravel
+backend/.env
+backend/vendor/
+backend/node_modules/
+backend/storage/logs/*
+backend/.php-cs-fixer.cache
+
+# Angular
+frontend/node_modules/
+frontend/dist/
+frontend/.angular/
+
+# Sistema
+.DS_Store
+Thumbs.db
